@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/nRGjYBMG9v3o1mnO1Di83MBjNSZhA2c6b6Zo/eqa0zylsq0k2W/XhV4ohO/FI0PUQq1NFd0QoaGss/787EXVA==",
+  "success": true,
+  "projectFilePath": "G:\\ProyectosRonyCuzco\\OpenWebinars\\Curso RabbitMQ\\Curso RabbitMQ - Parte 1\\Ejemplos\\RabbitMQConsumidor\\RabbitMQConsumidor\\RabbitMQConsumidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rcfle\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\rcfle\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rcfle\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

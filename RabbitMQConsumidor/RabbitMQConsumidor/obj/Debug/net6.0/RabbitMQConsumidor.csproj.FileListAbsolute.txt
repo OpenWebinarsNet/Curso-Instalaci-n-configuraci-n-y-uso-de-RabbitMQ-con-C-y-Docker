@@ -1,0 +1,17 @@
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\bin\Debug\net6.0\RabbitMQConsumidor.exe
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\bin\Debug\net6.0\RabbitMQConsumidor.deps.json
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\bin\Debug\net6.0\RabbitMQConsumidor.runtimeconfig.json
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\bin\Debug\net6.0\RabbitMQConsumidor.dll
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\bin\Debug\net6.0\RabbitMQConsumidor.pdb
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\bin\Debug\net6.0\RabbitMQ.Client.dll
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\RabbitMQConsumidor.csproj.AssemblyReference.cache
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\RabbitMQConsumidor.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\RabbitMQConsumidor.AssemblyInfoInputs.cache
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\RabbitMQConsumidor.AssemblyInfo.cs
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\RabbitMQConsumidor.csproj.CoreCompileInputs.cache
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\RabbitMQConsumidor.csproj.CopyComplete
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\RabbitMQConsumidor.dll
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\refint\RabbitMQConsumidor.dll
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\RabbitMQConsumidor.pdb
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\RabbitMQConsumidor.genruntimeconfig.cache
+G:\ProyectosRonyCuzco\OpenWebinars\Curso RabbitMQ - Parte 1\Ejemplos\RabbitMQConsumidor\RabbitMQConsumidor\obj\Debug\net6.0\ref\RabbitMQConsumidor.dll
